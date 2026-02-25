@@ -9,6 +9,12 @@ This project is e-commerce landing page. I used HTML, CSS, and jQuery to build a
 ## 🚀 Features
 - Header Scroll Fixed
 - Fully Responsive
+- Smooth hover transitions for interactive feedback
+- Clear visual hierarchy for better readability
+- Latest products
+- Exclusive offers
+- Brand logos
+- Customer testimonials
 
 ## 🛠️ Technologies Used
 
