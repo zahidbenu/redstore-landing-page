@@ -7,10 +7,7 @@ This project is e-commerce landing page. I used HTML, CSS, and jQuery to build a
 👉 Click [here](https://zahidbenu.github.io/redstore-landing-page/) to view the live project.
 
 ## 🚀 Features
-- Mega Header Navigation Menu
 - Header Scroll Fixed
-- Header Scroll Fixed Prisma Animated Background
-- Animated Every Section
 - Fully Responsive
 
 ## 🛠️ Technologies Used
