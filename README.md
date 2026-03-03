@@ -1,6 +1,6 @@
 # 🎯 Landing Page: RedStore
 
-This project is e-commerce landing page. I used HTML, CSS, and jQuery to build and animate the user interface. It includes smooth transitions with CSS.
+This project is an e-commerce landing page. I used HTML, CSS, and jQuery to build the page. It includes smooth transitions with CSS.
 
 ## 🌐 Live Demo
 
